@@ -8,10 +8,12 @@ When using examples from [GOV.UK elements](https://govuk-elements.herokuapp.com/
 
 # HMRC Component Library
 
-This report shows what changes when upgrading from v2 to v3.
+This report shows what changes in the Component Library when upgrading from v2 to v3.
 
 [View the report here](https://github.tools.tax.service.gov.uk/pages/HMRC/assets-frontend-vrt-reports/component_library/html_report/index.html).
 
 # HMRC Design System
 
-This report shows what changes when upgrading from v2 to v3.
+This report shows what changes in the Design System when upgrading from v2 to v3.
+
+[View the report here](https://github.tools.tax.service.gov.uk/pages/HMRC/assets-frontend-vrt-reports/design_system/html_report/index.html).
