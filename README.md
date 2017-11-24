@@ -1,5 +1,10 @@
 Visual Regression Test reports for upgrading [assets-frontend](https://github.com/hmrc/assets-frontend/) to v3.
 
+### Note
+> __Reference__ images were taken with AF__v2__
+
+> __Test__ images were taken with AF __v3__
+
 # GOV.UK elements
 
 When using examples from [GOV.UK elements](https://govuk-elements.herokuapp.com/), the visual appearance doesn't change when using v3.
